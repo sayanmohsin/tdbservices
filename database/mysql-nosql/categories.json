@@ -1,0 +1,100 @@
+[
+    {
+        "catid": 1,
+        "category": "schools",
+        "cstatus": "1",
+        "ctype": "school",
+        "color": "#5bc0eb"
+    },
+    {
+        "catid": 3,
+        "category": "sports",
+        "cstatus": "1",
+        "ctype": "news",
+        "color": "#FF0022"
+    },
+    {
+        "catid": 4,
+        "category": "science",
+        "cstatus": "1",
+        "ctype": "news",
+        "color": "#B91372"
+    },
+    {
+        "catid": 5,
+        "category": "lifestyle",
+        "cstatus": "1",
+        "ctype": "news",
+        "color": "#fa7921"
+    },
+    {
+        "catid": 16,
+        "category": "Interview",
+        "cstatus": "0",
+        "ctype": "interview",
+        "color": "#5A2A27"
+    },
+    {
+        "catid": 17,
+        "category": "parents",
+        "cstatus": "0",
+        "ctype": "parents",
+        "color": "#5A2A27"
+    },
+    {
+        "catid": 18,
+        "category": "teachers",
+        "cstatus": "0",
+        "ctype": "teachers",
+        "color": "#5A2A27"
+    },
+    {
+        "catid": 19,
+        "category": "students",
+        "cstatus": "0",
+        "ctype": "students",
+        "color": "#5A2A27"
+    },
+    {
+        "catid": 20,
+        "category": "editorial",
+        "cstatus": "0",
+        "ctype": "editorial",
+        "color": "#5A2A27"
+    },
+    {
+        "catid": 21,
+        "category": "column",
+        "cstatus": "0",
+        "ctype": "column",
+        "color": "#5A2A27"
+    },
+    {
+        "catid": 22,
+        "category": "Nature",
+        "cstatus": "1",
+        "ctype": "news",
+        "color": "#e44151"
+    },
+    {
+        "catid": 23,
+        "category": "Education",
+        "cstatus": "1",
+        "ctype": "news",
+        "color": "#d8a482"
+    },
+    {
+        "catid": 25,
+        "category": "People",
+        "cstatus": "1",
+        "ctype": "news",
+        "color": "#405155"
+    },
+    {
+        "catid": 27,
+        "category": "Juniors",
+        "cstatus": "1",
+        "ctype": "news",
+        "color": "#052320"
+    }
+]

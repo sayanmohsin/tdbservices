@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5c36648dceb10f1833e7db80"},"name":"super admin","username":"spr","password":"spr","email":"spr@test.com","phone":"8907177277","createdDate":{"$date":{"$numberLong":"1547068557175"}},"updatedDate":{"$date":{"$numberLong":"1547068557176"}},"__v":{"$numberInt":"0"}}

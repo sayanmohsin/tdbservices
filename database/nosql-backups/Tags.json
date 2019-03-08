@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5bc9ab9b721cc3c8934e1661"},"status":false,"name":"sports","createdDate":{"$date":{"$numberLong":"1539943323579"}},"updatedDate":{"$date":{"$numberLong":"1539943323580"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5bc9aba1721cc3c8934e1662"},"status":false,"name":"school","createdDate":{"$date":{"$numberLong":"1539943329877"}},"updatedDate":{"$date":{"$numberLong":"1539943329877"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5bc9aba6721cc3c8934e1663"},"status":false,"name":"social","createdDate":{"$date":{"$numberLong":"1539943334277"}},"updatedDate":{"$date":{"$numberLong":"1539943334277"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5bc9abac721cc3c8934e1664"},"status":false,"name":"polictics","createdDate":{"$date":{"$numberLong":"1539943340292"}},"updatedDate":{"$date":{"$numberLong":"1539943340292"}},"__v":{"$numberInt":"0"}}

@@ -1,0 +1,17 @@
+
+[
+    {"name":"schools","status":"1","type":"school","color":"#5bc0eb"},
+    {"name":"sports","status":"1","type":"news","color":"#FF0022"},
+    {"name":"science","status":"1","type":"news","color":"#B91372"},
+    {"name":"lifestyle","status":"1","type":"news","color":"#fa7921"},
+    {"name":"Interview","status":"0","type":"interview","color":"#5A2A27"},
+    {"name":"parents","status":"0","type":"parents","color":"#5A2A27"},
+    {"name":"teachers","status":"0","type":"teachers","color":"#5A2A27"},
+    {"name":"students","status":"0","type":"students","color":"#5A2A27"},
+    {"name":"editorial","status":"0","type":"editorial","color":"#5A2A27"},
+    {"name":"column","status":"0","type":"column","color":"#5A2A27"},
+    {"name":"Nature","status":"1","type":"news","color":"#e44151"},
+    {"name":"Education","status":"1","type":"news","color":"#d8a482"},
+    {"name":"People","status":"1","type":"news","color":"#405155"},
+    {"name":"Juniors","status":"1","type":"news","color":"#052320"}
+]
